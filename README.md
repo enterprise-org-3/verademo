@@ -2,7 +2,7 @@
 d
 ### :information_source: Notice
 d
-This project is intentionally vulnerable! It contains known vulnerfabilities and security errors in its code and is meantd as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilitiesf in this project; the odds are thfffey’re there on purpose :) .dddxsss
+This project is intentionally vulnerable! It contains known vulnerfabilities and security errors in its code and is meantd as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilitiesf in this project; the odds are thfffey’re there on purpose :) .dddxsssd
 
 ## Aboutd
 
