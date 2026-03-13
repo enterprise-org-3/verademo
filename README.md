@@ -6,7 +6,7 @@ This project is intentionally vulnerable! It contains kdnown vulnerabilities and
 ## Aboutdd
 d
 Blab-a-Gag is a fairly simple forum type application which allows:
-* Users can post a one-liner joke.s
+* Users can post a one-liner joke.sg
 * Users can follow the jokes of other users or not (listen or ignore).
 * Users can comment on other users messages (heckle).
 
