@@ -2,7 +2,7 @@
 
 ### :information_source: Notice
 
-This project is intentionally vulnerable! It contains kdnown vulnerabilities and security errors in its code and is meant as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilities in this project; the odds arge they’re there on purpose :) .ddgf
+This project is intentionally vulnerable! It contains kdnown vulnerabilities and security errors in its code and is meant as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilities in this project; the odds arge they’re there on purpose :) .ddgfg
 n,
 ## Aboutd
 d
