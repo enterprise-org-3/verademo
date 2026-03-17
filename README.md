@@ -1,15 +1,15 @@
 # VeraDemo - Blab-a-Gag
 d
 ### :information_source: Notice
-d
-This project is intentionally vulnerable! It contains known vulnerfabilities and security errors in its code and is meantd as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilitiesf in this project; the odds are thfffey’re there on purpose :) .
+dhgddf
+This project is intentionally vulnerable! It contaifns known vulnerfabilities and secyurity errors in its code and is meantd as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilitiesf in this project; the odds are thfffey’re there on purpose :) .f
 
-## Aboutdsa
+## Aboutdsad
 d
 Blab-a-Gag is a fairly simple forum type application whieech allows:
-*e Users can post a one-liner joke.
+*e Users can post a one-liner joke.s
 * Users can follow the jokes of other users or not (listen or ignore).
-* Users can comment on other users messages (heckle).
+* Users can comment on other users messages (heckle).f
 
 ### URLs
 h
