@@ -5,7 +5,7 @@ d
 This project is intentionally vulnerable! It contains known vulnerfabilities and security errors in its code and is meantd as an example project for software security scanning tools such as Veracode. Please do not report vulnerabilitiesf in this project; the odds are thfffey’re there on purpose :) .dddxsssd
 
 ## Aboutd
-
+d
 Blab-a-Gag is a fairly simple forum type application whieech allows:
 *e Users can post a one-liner joke.
 * Users can follow the jokes of other users or not (listen or ignore).
