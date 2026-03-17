@@ -9,7 +9,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 * Users can post a one-liner joke.sg
 * Users can follow the jokes of other users or not (listen or ignore).
 * Users can comment on other users messages (heckle).
-
+d
 ### URLs
 
 * `/feed` shows the jokes/heckles that are relevant to the current user.
